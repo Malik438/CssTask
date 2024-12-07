@@ -1,0 +1,157 @@
+header{
+  padding: 10px;
+  background-color: #222222;
+  text-align: center;
+
+
+}
+header b {
+  color: #cccccc;
+  font-weight: bold;
+  border-bottom: white 1px solid;
+
+}
+
+body{
+  padding: 10px;
+  margin: 10px ;
+  background-color: #f4f4f4
+}
+
+
+
+
+nav {
+  background-color: #333;
+  display: block;
+  padding: 15px 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 15px;
+  transition: all 0.3s ease;
+  padding: 8px 15px;
+  border-radius: 5px;
+}
+
+nav a:hover {
+  background-color: #575757;
+  color: #f1c40f;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+nav a:active {
+  background-color: purple;
+}
+
+
+section h1{
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  background-color: lightgray;
+}
+
+
+#about-me{
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  text-align: left;
+  border: 1px solid saddlebrown;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px tan;
+}
+
+#about-me img {
+  border-radius: 10%;
+}
+
+
+
+#MY-WORK {
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  text-align: left;
+  border: 1px solid saddlebrown;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px tan;
+}
+
+#MY-WORK table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+#MY-WORK th {
+  background-color: #f4a261 ;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+#MY-WORK td {
+  padding: 10px;
+  background-color: #f9f9f9;
+  border-bottom: 1px solid #ccc;
+
+}
+
+#Contact-me{
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  border: 1px solid saddlebrown;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px tan;
+}
+#Contact-me div {
+  padding: 10px;
+  margin: 10px;
+  background-color:  #f9f9f9;
+}
+
+i {
+  color: #D14836;
+  font-size: 24px;
+  margin-right: 8px;
+}
+
+a img {
+  margin-left: 10px;
+}
+
+a i {
+  margin-left: 10px;
+}
+
+
+footer {
+  padding: 10px;
+  margin: 10px;
+  width: 100%;
+  color: white;
+  background-color: #222222;
+}
+
+
+#form{
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  text-align: left;
+  border: 1px solid saddlebrown;
+  border-radius: 10px;
+  box-shadow: 2px 2px 4px tan;
+}
+
+
+
+
+
